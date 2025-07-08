@@ -2,7 +2,7 @@
 
 A simple and interactive Flutter application that allows you to create custom colors by mixing Red, Green, and Blue values using sliders.
 
-*(A screenshot or GIF of the app in action would go here, showing the color container and the sliders.)*
+![Color Mixer App Preview](screenshots/app_screenshot.png)
 
 ## 🚀 Features
 
